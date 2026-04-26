@@ -78,4 +78,7 @@ Examples:
 **Client**: Flutter, Provider
 
 ## Repository
-https://github.com/NovaRatanaAI/Edugram
+https://github.com/NovaRatanaAI/Edugram 
+
+## Developed By 
+ -Heng Ratana
